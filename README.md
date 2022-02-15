@@ -1,3 +1,6 @@
+<h1 align="center">
+ <img src="https://pbs.twimg.com/profile_banners/1273322683061567488/1641290983/1500x500" />
+</h1>
 <h1 align="center">Hey , I'm Mohit Panjikar</h1>
 <h3 align="center">Hi there , I am a cheerful, solution-oriented, optimistic personality. I am exploring new domains and curious to learn about new technologies in the world of Computing. I love to do code and solve various problems, which challenges me. I am interested in software engineering, UI / UX, and algorithms.<br>I seek to empower communities and aspire to bring the best.</h3
 

@@ -6,6 +6,8 @@ I like Coding.
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Python,Git/GitHub and Competitive Programming.
 - 💞️ I’m looking to collaborate on Python and Web Development.
-- 📫 How to reach me mohitpanjikar21@gmail.com
+- 📫 How to reach me - Twitter - @THEHUST03312678
+                        Youtube- @MohitPanjikar
+                        Instagram -@mohit.xox
 
 

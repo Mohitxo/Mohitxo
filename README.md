@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://pbs.twimg.com/profile_banners/1273322683061567488/1641290983/1500x500" />
+ <img src="https://media-exp1.licdn.com/dms/image/C4D16AQGV3lWqcKMW9Q/profile-displaybackgroundimage-shrink_350_1400/0/1635265724767?e=1650499200&v=beta&t=FmtHGz3n5nKq7II-pgsLvrh2g3jtPCCFfJElAR7W6Ek" />
 </h1>
 <h1 align="center">Hey , I'm Mohit Panjikar</h1>
 <h3 align="center">Hi there , I am a cheerful, solution-oriented, optimistic personality. I am exploring new domains and curious to learn about new technologies in the world of Computing. I love to do code and solve various problems, which challenges me. I am interested in software engineering, UI / UX, and algorithms.<br>I seek to empower communities and aspire to bring the best.</h3

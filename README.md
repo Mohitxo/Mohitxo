@@ -1,11 +1,13 @@
 <h1 align="center">Hey , I'm Mohit Panjikar</h1>
 <h3 align="center">Hi there , I am a cheerful, solution-oriented, optimistic personality. I am exploring new domains and curious to learn about new technologies in the world of Computing. I love to do code and solve various problems, which challenges me. I am interested in software engineering, UI / UX, and algorithms.<br>I seek to empower communities and aspire to bring the best.</h3
 
+<hr>
+- 🔥 I like Coding. <br>
+- 👀 I like Software Development. <br>
+- 💞️ I like Problem Solving. <br>
+- 🌱 I’m currently learning Python,Git/GitHub and Competitive Programming.<br>
+  
 
-- 🔥 I like Coding.
-- 👀 I like Software Development.
-- 💞️ I like Problem Solving.
-- 🌱 I’m currently learning Python,Git/GitHub and Competitive Programming.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -26,8 +26,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitxo&" alt="mohitxo" /></p>
 
-<br>
+## Language Stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohitxo&show_icons=true&theme=dark&locale=en" alt="MohitPanjikar" /></p>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mohitxo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
